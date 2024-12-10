@@ -2,6 +2,7 @@
 My final project (including proposal) for CIS 1051 with Professor Rosen
 
 Final Project Tour Linked Here: https://www.youtube.com/watch?v=Uuys-Q_c0f4
+
 Shine Clicker! Version 1
 Based on the hit game Cookie Clicker, Shine Clicker is a twist on the idle game format - rather than creating a cookie empire, you must click as many shine's as possible in 2 minutes!
 Instructions:
